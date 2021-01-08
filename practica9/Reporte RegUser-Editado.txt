@@ -1,0 +1,465 @@
+Hive (D:\NTUSER.DAT) is not dirty.
+
+adobe v.20200522
+(NTUSER.DAT) Gets user's Adobe app cRecentFiles values
+
+adobe v.20200522
+Could not access Software\Adobe\Adobe Acrobat\\AVGeneral\cRecentFiles
+
+Could not access Software\Adobe\Acrobat Reader\\AVGeneral\cRecentFiles
+----------------------------------------
+appassoc v.20200515
+- Gets contents of user's ApplicationAssociationToasts key
+
+LastWrite: 2020-11-20 04:34:11Z
+
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.3g2
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.3g2
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.3g2
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.3gp
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.3gp
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.3gp
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.3gp2
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.3gpp
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.3gpp
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.3gpp
+AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k_.3mf
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.3mf
+AppXr0rz9yckydawgnrx5df1t9s57ne60yhn_.3mf
+AppXvhc4p7vz4b485xfp46hhk3fq3grkdgjg_.3mf
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.aac
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.aac
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.ac3
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.adt
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.adt
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.adts
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.adts
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.amr
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.arw
+WMP11.AssocFile.ASF_.asf
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.asf
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.avi
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.avi
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.avi
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.bmp
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.cr2
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.crw
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.dib
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.divx
+docxfile_.docx
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.ec3
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.erf
+AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k_.fbx
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.fbx
+AppXr0rz9yckydawgnrx5df1t9s57ne60yhn_.fbx
+AppXvhc4p7vz4b485xfp46hhk3fq3grkdgjg_.fbx
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.flac
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.flac
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.gif
+AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k_.glb
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.glb
+AppXr0rz9yckydawgnrx5df1t9s57ne60yhn_.glb
+AppXvhc4p7vz4b485xfp46hhk3fq3grkdgjg_.glb
+AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k_.gltf
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.gltf
+AppXr0rz9yckydawgnrx5df1t9s57ne60yhn_.gltf
+AppXvhc4p7vz4b485xfp46hhk3fq3grkdgjg_.gltf
+icofile_.ico
+PBrush_.ico
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.ico
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.jfif
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.jpe
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.jpeg
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.jpg
+AppXfeqk92xmhxtyxytgbhn7tdqk70syjc6v_.jpg
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.kdc
+WMP11.AssocFile.M2TS_.m2t
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.m2t
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.m2t
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.m2t
+WMP11.AssocFile.M2TS_.m2ts
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.m2ts
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.m2ts
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.m2ts
+WMP11.AssocFile.m3u_.m3u
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.m3u
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.m3u
+AppX5sy1gww9q4g2gt941cdxxd7s07xe5vph_.m4a
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.m4a
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.m4a
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.m4r
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.m4v
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.m4v
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.m4v
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.mka
+WMP11.AssocFile.MKV_.mkv
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.mkv
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.mkv
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.mkv
+WMP11.AssocFile.MPEG_.mod
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.mod
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.mod
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.mov
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.mov
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.mov
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.mp2
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.mp3
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.mp3
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.mp4
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.mp4
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.mp4
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.mp4v
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.mp4v
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.mp4v
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.mpa
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.mpa
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.mpe
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.mpe
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.mpeg
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.mpeg
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.mpg
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.mpg
+WMP11.AssocFile.MPEG_.mpv2
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.mpv2
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.mpv2
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.mrw
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.mts
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.mts
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.mts
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.nef
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.nrw
+AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k_.obj
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.obj
+AppXr0rz9yckydawgnrx5df1t9s57ne60yhn_.obj
+AppXvhc4p7vz4b485xfp46hhk3fq3grkdgjg_.obj
+AppXd7df65yysmdaz9xc1vjxts4ng22x2n5f_.obj
+odtfile_.odt
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.oga
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.ogg
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.ogm
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.ogv
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.ogx
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.opus
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.orf
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.pef
+AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k_.ply
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.ply
+AppXr0rz9yckydawgnrx5df1t9s57ne60yhn_.ply
+AppXvhc4p7vz4b485xfp46hhk3fq3grkdgjg_.ply
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.png
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.raf
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.raw
+rtffile_.rtf
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.rw2
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.rwl
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.sr2
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.srw
+AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k_.stl
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.stl
+AppXr0rz9yckydawgnrx5df1t9s57ne60yhn_.stl
+AppXvhc4p7vz4b485xfp46hhk3fq3grkdgjg_.stl
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.tif
+AppX86746z2101ayy2ygv3g96e4eqdf8r99j_.tif
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.tif
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.tiff
+AppX86746z2101ayy2ygv3g96e4eqdf8r99j_.tiff
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.tiff
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.tod
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.tod
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.ts
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.ts
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.tts
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.tts
+vcard_wab_auto_file_.vcf
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.wav
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.wav
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.webm
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.wm
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.wm
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.wm
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.wma
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.wma
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.wmv
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.wmv
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.wmv
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.wpl
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.wpl
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.xvid
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.xvid
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.zpl
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.zpl
+AppXtggqqtcfspt6ks3fjzyfppwc05yxwtwy_mswindowsmusic
+AppX6w6n4f8xch1s3vzwf3af6bfe88qhxbza_mswindowsvideo
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.bmp
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.dib
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.gif
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.ico
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.jfif
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.jpe
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.jpeg
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.jpg
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.png
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.tiff
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.tif
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.arw
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.cr2
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.crw
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.erf
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.kdc
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.mrw
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.nef
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.nrw
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.orf
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.pef
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.raw
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.rw2
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.rwl
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.sr2
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.srw
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.jxr
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.wdp
+Windows.Sandbox_.wsb
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.dng
+AppX7rm9drdg8sk7vqndwj3sdjw11x96jc0y_microsoft-edge
+AppX3xxs313wwkfjhythsb8q46xdsq8d2cvv_microsoft-edge-holographic
+AppXdn5b0j699ka5fqvrr3pgjad0evqarm6d_ms-xbl-3d8b930f
+Paint.Picture_.bmp
+CABFolder_.cab
+chm.file_.chm
+Applications\Notepad.exe_.css
+Applications\WordPad.exe_.css
+Applications\Notepad.exe_.csv
+Applications\WordPad.exe_.csv
+Paint.Picture_.dib
+giffile_.gif
+PBrush_.gif
+inffile_.inf
+inifile_.ini
+Applications\WordPad.exe_.ini
+Windows.IsoFile_.iso
+PBrush_.jfif
+PBrush_.jpe
+PBrush_.jpeg
+PBrush_.jpg
+JSFile_.js
+wdpfile_.jxr
+txtfile_.log
+MSInfoFile_.nfo
+PBrush_.png
+regfile_.reg
+TIFImage.Document_.tif
+PBrush_.tif
+TIFImage.Document_.tiff
+PBrush_.tiff
+ttffile_.ttf
+txtfile_.txt
+textfile_.txt
+wdpfile_.wdp
+xmlfile_.xml
+Applications\Notepad.exe_.xml
+Applications\WordPad.exe_.xml
+CompressedFolder_.zip
+WMP11.AssocFile.3G2_.3g2
+WMP11.AssocFile.3GP_.3gp
+WMP11.AssocFile.3G2_.3gp2
+WMP11.AssocFile.3GP_.3gpp
+WMP11.AssocFile.ADTS_.aac
+WMP11.AssocFile.ADTS_.adt
+WMP11.AssocFile.ADTS_.adts
+WMP11.AssocFile.AVI_.avi
+WMP11.AssocFile.FLAC_.flac
+htmlfile_.htm
+Applications\notepad.exe_.htm
+htmlfile_.html
+WMP11.AssocFile.M4A_.m4a
+WMP11.AssocFile.MP4_.m4v
+WMP11.AssocFile.MKA_.mka
+WMP11.AssocFile.MOV_.mov
+WMP11.AssocFile.MP3_.MP2
+WMP11.AssocFile.MP3_.mp3
+WMP11.AssocFile.MP4_.mp4
+WMP11.AssocFile.MP4_.mp4v
+WMP11.AssocFile.MPEG_.mpa
+WMP11.AssocFile.MPEG_.MPE
+WMP11.AssocFile.MPEG_.mpeg
+WMP11.AssocFile.MPEG_.mpg
+WMP11.AssocFile.M2TS_.mts
+WMP11.AssocFile.TTS_.TS
+WMP11.AssocFile.TTS_.TTS
+InternetShortcut_.url
+WMP11.AssocFile.WAV_.wav
+Microsoft.Website_.website
+WMP11.AssocFile.ASF_.wm
+WMP11.AssocFile.WMA_.wma
+WMP11.AssocFile.WMV_.wmv
+WMP11.AssocFile.WPL_.WPL
+IE.HTTP_http
+IE.HTTPS_https
+exefile_.exe
+MSEdgeHTM_http
+MSEdgeHTM_https
+MSEdgeHTM_microsoft-edge
+MSEdgeHTM_microsoft-edge-holographic
+MSEdgeHTM_ms-xbl-3d8b930f
+MSEdgeHTM_.htm
+MSEdgeHTM_.html
+MSEdgePDF_.pdf
+AppXvepbp3z66accmsd0x877zbbxjctkpr6t_.epub
+AppX4hxtad77fbk3jkkeerkrm0ze94wjf3s9_.htm
+AppX4hxtad77fbk3jkkeerkrm0ze94wjf3s9_.html
+AppXd4nrz8ff68srnhf9t5a8sbjyar1cr723_.pdf
+AppXde74bfzw9j31bzhcvsrxsyjnhhbq66cs_.svg
+AppXcc58vyzkbjbs4ky0mxrmxf8278rk9b3t_.xml
+AppXq0fevzme2pys62n3e0fbqa7peapykr8v_http
+AppX90nv6nhay5n6a98fnetv7tpk64pp35es_https
+AppXe862j7twqs4aww05211jaakwxyfjx4da_read
+AppXzwr976v2e060wada4gabrk1x69h2dbwy_.inf
+AppXhk4des8gf2xat3wtyzc5q06ny78jhkqx_.ini
+AppX4ztfk9wxr86nxmzzq47px0nh0e58b8fw_.log
+AppXxf01pj590w7z9mxmyv3nx0a9ewj3e51g_.ps1
+AppXc9vj55m1n3559gcjff0scsqeket80zp7_.psd1
+AppX1b0e9ytcwx0wcmvkdey0h6af04t1ta3z_.psm1
+AppX4ztfk9wxr86nxmzzq47px0nh0e58b8fw_.scp
+AppX4ztfk9wxr86nxmzzq47px0nh0e58b8fw_.txt
+AppX4ztfk9wxr86nxmzzq47px0nh0e58b8fw_.wtx
+Applications\Notepad.exe_.cs
+Applications\WordPad.exe_.cs
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.dib
+AppXvvwq6wxamf7qhxd0vn6wm1wwehyxrdd6_.dng
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.gif
+VisualStudio.ico.4332a834_.ico
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.ico
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.jfif
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.jpe
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.jpeg
+Brackets FileExt_.json
+VisualStudio.json.4332a834_.json
+Applications\WordPad.exe_.map
+Access.MDBFile_.mdb
+odcfile_.odc
+OneNote.Section.1_.one
+AppXaf0097ws4bwb0wre67gmp7pc9fjr8en6_.one
+OneNote.TableOfContents.12_.onetoc2
+AppXaf0097ws4bwb0wre67gmp7pc9fjr8en6_.onetoc2
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.png
+AppX5nebv0xjaxafmmr3cnptgjg9pdpqcg0h_ms-gamingoverlay
+AppXp8e2ntvbtget7f2fw6qec3j54vhd14m4_ms-calculator
+AppXzych6jbn7p3xzarpfwgxas39g87myyjf_spotify
+AppXypsaf9f1qserqevf0sws76dx4k9a5206_feedback-hub
+Outlook.File.ics.15_.ics
+AppX77ghgzrbzwe6djbdyty6hp5e3z1qryqx_.ics
+AppX0resaq7r5ermbh4b96ke39yqc1atfhjr_ms-people
+AppXn9ye6e6n1gjh4z5wxtr6x3fvreb2w0ta_ms-to-do
+Applications\WINWORD.EXE_.doc
+AppXydk58wgm44se4b399557yyyj1w7mbmvd_mailto
+AppXdg4j5zg5vk11bk8bqnf1evbx9vc1b8wa_xbox-settings
+AppXmv6rk8z9kbjr10t0fhrvkggh6psk9vm0_msxbox
+Outlook.File.vcf.15_.vcf
+AppXpb1vntage8kvnwpyg40aqz34j851h4p1_.vcf
+AppXvqhb9dhb3dg0mpfydfbz4qp875kpspza_outlookmail
+AppXreyvazcs64j2pgtpwyt49g6ce85mwrwg_ms-screensketch
+AppXbemgape21yns3k5pd4ah40jz06yq6xrk_ms-screenclip
+----------------------------------------
+appcompatflags v.20200525
+(NTUSER.DAT, Software) Extracts AppCompatFlags for Windows.
+
+
+Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Persisted
+  C:\Users\cx\AppData\Local\Temp\HiSuiteDownLoader\Setup.exe
+Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Store
+  2019-03-19 04:44:28Z - C:\Users\cx\AppData\Local\Microsoft\OneDrive\19.002.0107.0005\FileSyncConfig.exe
+  2019-03-19 04:44:28Z - C:\Users\cx\AppData\Local\Microsoft\OneDrive\19.232.1124.0008\FileSyncConfig.exe
+  2019-12-07 09:08:44Z - C:\Program Files\DellTPad\ApMsgFwd.exe
+  2019-03-19 04:44:28Z - D:\cx   99999999\Downloads\VMware-player-15.5.1-15018445.exe
+  2019-03-19 04:44:28Z - D:\cx   99999999\Downloads\ZoomInstaller.exe
+  2019-03-19 04:44:28Z - D:\cx   99999999\Downloads\VirtualBox-6.1.4-136177-Win.exe
+  2019-03-19 04:44:28Z - D:\cx   99999999\Downloads\SupportAssistLauncher.exe
+  2019-03-19 04:44:28Z - D:\cx   99999999\Downloads\StorageExplorer.exe
+  2019-03-19 04:44:28Z - D:\cx   99999999\Downloads\SSMS-Setup-ENU.exe
+  2019-03-19 04:44:28Z - D:\cx   99999999\Downloads\rufus-3.8.exe
+  2019-03-19 04:44:28Z - D:\cx   99999999\Downloads\jdk-13.0.2_windows-x64_bin.exe
+  2019-03-19 04:44:28Z - D:\cx   99999999\Downloads\cpu-z_1.91-en.exe
+  2019-03-19 04:44:28Z - D:\cx   99999999\Downloads\Composer-Setup.exe
+  2019-03-19 04:44:28Z - D:\cx   99999999\Downloads\balenaEtcher-Setup-1.5.79.exe
+  2019-12-07 09:08:44Z - C:\Users\cx\AppData\Local\Programs\balena-etcher\balenaEtcher.exe
+  2019-03-19 04:44:28Z - D:\cx   99999999\Downloads\Apache-NetBeans-11.2-bin-windows-x64.exe
+  2019-03-19 04:44:28Z - C:\Users\cx\Downloads\SSMS-Setup-ENU.exe
+  2019-03-19 04:44:28Z - C:\Users\cx\AppData\Local\Microsoft\OneDrive\20.028.0206.0006\FileSyncConfig.exe
+  2019-03-19 04:44:28Z - C:\Users\cx\AppData\Local\Microsoft\OneDrive\20.028.0206.0009\FileSyncConfig.exe
+  2019-03-19 04:44:28Z - C:\Users\cx\Downloads\tsetup.1.9.14.exe
+  2019-03-19 04:44:28Z - C:\Users\cx\Downloads\ideaIC-2019.3.3.exe
+  2019-03-19 04:44:28Z - C:\Users\cx\Downloads\ideaIE-2019.3.2.exe
+  2019-03-19 04:44:28Z - C:\Users\cx\Downloads\pycharm-community-2019.3.3.exe
+  2019-03-19 04:44:28Z - C:\Users\cx\Downloads\pycharm-edu-2019.3.3.exe
+  2019-03-19 04:44:28Z - C:\Users\cx\Downloads\OneDriveSetup.exe
+  2019-03-19 04:44:28Z - C:\Users\cx\AppData\Local\Microsoft\OneDrive\20.064.0329.0005\FileSyncConfig.exe
+  2019-03-19 04:44:28Z - C:\Users\cx\AppData\Local\Microsoft\OneDrive\20.064.0329.0007\FileSyncConfig.exe
+  2019-03-19 04:44:28Z - C:\Users\cx\AppData\Local\Microsoft\OneDrive\20.064.0329.0008\FileSyncConfig.exe
+  2019-03-19 04:44:28Z - C:\Program Files\Microsoft Baseline Security Analyzer 2\mbsa.exe
+  2019-12-07 09:08:44Z - C:\Users\cx\Downloads\Docker Desktop Installer.exe
+  2019-12-07 09:08:44Z - C:\Users\cx\Downloads\SandboxieInstall64-533-3.exe
+  2019-12-07 09:08:44Z - C:\Program Files\WinRAR\WinRAR.exe
+  2019-12-07 09:08:44Z - C:\Program Files\Sandboxie\Start.exe
+  2019-12-07 09:08:44Z - C:\Users\cx\AppData\Local\Microsoft\OneDrive\20.084.0426.0006\FileSyncConfig.exe
+  2019-12-07 09:08:44Z - C:\Program Files\Docker\Docker\Docker Desktop.exe
+  2019-12-07 09:08:44Z - C:\Users\cx\AppData\Local\Microsoft\OneDrive\20.103.0521.0002\FileSyncConfig.exe
+  2019-12-07 09:08:44Z - C:\Users\cx\AppData\Local\Microsoft\OneDrive\20.114.0607.0001\FileSyncConfig.exe
+----------------------------------------
+appkeys v.20200517
+(NTUSER.DAT, Software) Extracts AppKeys entries.
+
+----------------------------------------
+applets v.20200525
+(NTUSER.DAT) Gets contents of user's Applets key
+
+Applets
+Software\Microsoft\Windows\CurrentVersion\Applets
+LastWrite Time 2020-05-28 22:02:41Z
+
+Software\Microsoft\Windows\CurrentVersion\Applets\Paint\Recent File List not found.
+----------------------------------------
+----------------------------------------
+Software\Microsoft\IntelliPoint\AppSpecific not found.
+----------------------------------------
+appx v.20200427
+(NTUSER.DAT, USRCLASS.DAT) Checks for persistence via Universal Windows Platform Apps
+
+----------------------------------------
+arpcache v.20200515
+(NTUSER.DAT) Retrieves CurrentVersion\App Management\ARPCache entries
+
+Software\Microsoft\Windows\CurrentVersion\App Management\ARPCache not found.
+----------------------------------------
+attachmgr v.20200525
+(NTUSER.DAT) Checks user's keys that manage the Attachment Manager functionality
+
+Software\Microsoft\Windows\CurrentVersion\Policies\Associations not found.
+
+Software\Microsoft\Windows\CurrentVersion\Policies\Attachments not found.
+
+----------------------------------------
+load v.20200517
+(NTUSER.DAT) Gets load and run values from user hive
+
+load
+Software\Microsoft\Windows NT\CurrentVersion\Windows
+LastWrite Time 2020-11-19 02:17:52Z
+
+load value not found.
+run value not found.
+----------------------------------------
+logonstats v.20200517
+Gets contents of user's LogonStats key
+
+FirstLogonTime                     :  Sun Mar 01 06:57:55 2020
+FirstLogonTimeOnCurrentInstallation:  Fri May 29 03:05:11 2020
+----------------------------------------
+Drives:
+2020-07-07 08:03:27Z - G
+2020-07-07 07:33:18Z - D
+2020-05-29 03:05:11Z - CPC
+
+Analysis Tip: Correlate the Volume entries to those found in the MountedDevices
+entries that begin with "\??\Volume".
+----------------------------------------
+

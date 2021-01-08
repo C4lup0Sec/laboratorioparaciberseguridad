@@ -1,0 +1,5 @@
+powershell
+Get-DnsClientCache
+
+cmd
+ipconfig /displaydns

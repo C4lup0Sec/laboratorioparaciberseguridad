@@ -1,0 +1,15 @@
+el proceso para extraer los registros de usuario o de sistema debe ser desde otro SO estando en dualboot 
+o bien mediante un liveUSB accediendo a la ubicacion que puede ser obtenidos desde la ubicacion del 
+usuario para obtener informacion de dicho usuario o un registro mas general del sistema desde multiples 
+ubicaciones para su analisis de herramientas como regripper
+
+https://github.com/keydet89/RegRipper3.0
+
+en caso de ser el archivo de usuario debe llamarse NTUSER.dat dicho archivo esta oculto  
+por defecto asi que debe activarse la opcion de ver archivos ocultos y esta ubicado sobre la carpeta raiz del usuario  
+ejemplo 
+
+usuario/NTUSER.DAT
+
+para mas informacion de los demas registros siga el enlace
+https://docs.microsoft.com/es-es/troubleshoot/windows-server/performance/windows-registry-advanced-users
