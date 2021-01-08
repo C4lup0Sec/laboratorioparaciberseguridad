@@ -67,4 +67,10 @@ def connect_ftp(host:str, port:int = FTP_PORT, usr:str = '', pwd:str = '', save_
 
 if __name__ == '__main__':
     # connect_ftp('192.168.11.3', 8022)
-    connect_ftp('ftp.us.debian.org', save_path='/home/jhernandez/txt')
+    connect_ftp('ftp.freebsd.org/pub/FreeBSD/', save_path='C:/Users/wolf9/Documents/Python Scripts/Laboratorio para ciberseguridad/laboratorioparaciberseguridad/practica8')
+#https://mirrors.edge.kernel.org/pub/
+#ftp.us.debian.org
+#http://ftp.ntua.gr/pub/
+#http://archie.icm.edu.pl/archie_eng.html
+#http://ftp-sites.org/
+#http://ftp.freebsd.org/pub/FreeBSD/

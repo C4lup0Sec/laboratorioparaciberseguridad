@@ -1,6 +1,14 @@
 #!/usr/bin/env python
 
-RUTA_SERVIDOR_FTP = 'ftp.kernel.org'
+#https://mirrors.edge.kernel.org/pub/
+#ftp.us.debian.org
+#http://ftp.ntua.gr/pub/
+#http://archie.icm.edu.pl/archie_eng.html
+#http://ftp-sites.org/
+#http://ftp.freebsd.org/pub/FreeBSD/
+
+
+RUTA_SERVIDOR_FTP = 'http://ftp.freebsd.org/pub/FreeBSD/'
 import ftplib
 
 def cliente_ftp_conexion(servidor, nombre_usuario, correo):
